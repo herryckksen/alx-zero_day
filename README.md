@@ -1,2 +1,2 @@
 My first readme
-learning with alx
+learning with alx school
